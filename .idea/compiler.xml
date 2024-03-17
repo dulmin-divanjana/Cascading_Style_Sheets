@@ -9,5 +9,8 @@
         <module name="CSS_combinators" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="values_in_CSS" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
